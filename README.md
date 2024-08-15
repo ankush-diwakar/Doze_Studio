@@ -1,4 +1,7 @@
-##some screen shots
+## Screenshots
+
+Below are some screenshots of the website to give you a preview of the user interface and design:
+
 ![Screenshot 2024-08-15 180444](https://github.com/user-attachments/assets/0fe900f2-3697-4d8f-bed9-edb71c3b7578)
 ![Screenshot 2024-08-15 180728](https://github.com/user-attachments/assets/28ae640a-0a2e-442c-9efa-a246fb7a42d3)
 ![Screenshot 2024-08-15 180710](https://github.com/user-attachments/assets/9fc094ca-d739-445d-b352-162f2e6a300a)
@@ -12,9 +15,13 @@
 ![Screenshot 2024-08-15 180512](https://github.com/user-attachments/assets/3b74a3b4-f085-4c14-bee2-5e0c2c652ea8)
 ![Screenshot 2024-08-15 180458](https://github.com/user-attachments/assets/be4d45d0-6eaa-40c8-b093-5c0e7facd019)
 
-##live website link
-#github link
+## Live Website Links
 
-#vercel link
+You can view the live version of the website using the links below:
+- [On Github](https://ankush-diwakar.github.io/Doze_Studio/)
+- [On Vercel](https://doze-studio-tau.vercel.app/)
 
-##note⚠️ : It may take time to load ..⚠
+
+## Disclaimer
+
+Please be aware that the website may take a few moments to load, especially on slower connections. We appreciate your patience and understanding as the website loads.
