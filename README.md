@@ -1,3 +1,4 @@
+##some screen shots
 ![Screenshot 2024-08-15 180444](https://github.com/user-attachments/assets/0fe900f2-3697-4d8f-bed9-edb71c3b7578)
 ![Screenshot 2024-08-15 180728](https://github.com/user-attachments/assets/28ae640a-0a2e-442c-9efa-a246fb7a42d3)
 ![Screenshot 2024-08-15 180710](https://github.com/user-attachments/assets/9fc094ca-d739-445d-b352-162f2e6a300a)
@@ -10,3 +11,10 @@
 ![Screenshot 2024-08-15 180529](https://github.com/user-attachments/assets/9f6de611-50de-4099-9858-988bd6e25266)
 ![Screenshot 2024-08-15 180512](https://github.com/user-attachments/assets/3b74a3b4-f085-4c14-bee2-5e0c2c652ea8)
 ![Screenshot 2024-08-15 180458](https://github.com/user-attachments/assets/be4d45d0-6eaa-40c8-b093-5c0e7facd019)
+
+##live website link
+#github link
+
+#vercel link
+
+##note⚠️ : It may take time to load ..⚠
